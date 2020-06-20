@@ -1,6 +1,6 @@
 {% set name = "area-detector-handlers" %}
-{% set version = "0.0.4" %}
-{% set sha256 = "aeaeb88902b60710a6c2f211a2ec09be8e7547f7c37faf0845a141d2ae0deaaf" %}
+{% set version = "0.0.5" %}
+{% set sha256 = "85c694f77855f49a570941b81a68a8ffb2b8fb010a57d0f78bfd60275ca25379" %}
 
 package:
   name: {{ name|lower }}
