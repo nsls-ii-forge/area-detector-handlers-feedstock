@@ -23,7 +23,7 @@ requirements:
     - python
     - dask
     - h5py
-    - tifffile >=2020.08.25
+    - tifffile >=2020.8.25
 
 test:
   imports:
