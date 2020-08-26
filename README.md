@@ -5,7 +5,7 @@ Home: https://github.com/bluesky/area-detector-handlers
 
 Package license: BSD (3-clause)
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: DataBroker handlers for Area Detector
 
