@@ -5,11 +5,9 @@ Home: https://github.com/bluesky/area-detector-handlers
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/area-detector-handlers-feedstock/blob/master/LICENSE.txt)
 
 Summary: DataBroker handlers for Area Detector
-
-
 
 Current build status
 ====================
